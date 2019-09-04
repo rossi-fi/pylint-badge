@@ -5,7 +5,7 @@ pylint badges for everyone!
 ## Howto
 
 1. Install via `pip` or other method.
-2. Run as follows: `pylint-badge script.py` which will produce a file `pylint.svg` in the current directory. 
+2. Run as follows: `pylint-badge script.py pylint.svg` which will produce a file `pylint.svg` in the current directory. 
 
 ## Color intervals
 
@@ -13,7 +13,7 @@ pylint badges for everyone!
 
 ## Limitations
 
-* negative scores are not supported
+* Negative scores are not supported
 
 ## Idea
 Inspired by mperlet's [pybadge](https://github.com/mperlet/pybadge), which was in turn inspired by [this blogpost](http://www.desmondrivet.com/blog/technical/pylint-badges.html.)

@@ -1,4 +1,4 @@
-# pybadge ![pylint Score](pylint.svg)
+# pybadge
 
 pylint badges for everyone!
 

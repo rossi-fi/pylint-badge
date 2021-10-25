@@ -1,6 +1,6 @@
 # pybadge
 
-pylint badges for everyone!
+A simple and functional pylint badge generator. Better to use [anybadge](https://github.com/jongracecox/anybadge) for most purposes.
 
 ## Howto
 
